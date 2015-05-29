@@ -5,6 +5,7 @@
   "author": "Dmitry Kachaev <dmitry.kachaev@gmail.com>",
   "description": "beep-beep!",
   "dependencies": {
+    "canduit": "^1.0.0",
     "hubot": "^2.12.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.4",
@@ -12,6 +13,7 @@
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-maps": "0.0.2",
+    "hubot-phabricator": "^1.0.1",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
