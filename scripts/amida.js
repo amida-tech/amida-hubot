@@ -1,8 +1,8 @@
-var phabricator = require('../custom_scripts/phabricator.js');
-var config = require('../config.js');
+//var phabricator = require('../custom_scripts/phabricator.js');
+//var config = require('../config.js');
 
 module.exports = function(robot) {
-    phabricator.initPhab(config.phabricator,robot);
+    //phabricator.initPhab(config.phabricator,robot);
     /*
     robot.respond(/open the (.*) doors/i, function(res) {
         var doorType = res.match[1];

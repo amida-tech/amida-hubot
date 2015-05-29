@@ -12,5 +12,6 @@
   "hubot-youtube",
   "hubot-motivate",
   "hubot-victory",
-  "hubot-plusplus"
+  "hubot-plusplus",
+  "hubot-phabricator"
 ]
