@@ -7,11 +7,11 @@ var visitorAttempt = 0;
 var visitorTitle = "";
 var visitorChannel = "office";
 
-var client = inbox.createConnection(false, config.email.host, {
+var client = inbox.createConnection(false, process.env.EMAIL_HOST, {
     secureConnection: true,
     auth: {
-        user: config.email.username,
-        pass: config.email.password
+        user: process.env.EMAIL_USER,
+        pass: process.env.EMAIL_PASSWORD
     }
 });
 
