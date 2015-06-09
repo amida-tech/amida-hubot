@@ -4,5 +4,7 @@
   "hubot-heroku-keepalive",
   "hubot-redis-brain",
   "hubot-plusplus",
-  "hubot-phab"
+  "hubot-phab",
+  "hubot-visitor",
+  "hubot-forecast"
 ]

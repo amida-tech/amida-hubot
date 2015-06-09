@@ -14,7 +14,8 @@
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "^2.5.16",
     "hubot-slack": "^3.3.0",
-    "hubot-visitor": "^0.5.1"
+    "hubot-visitor": "^0.5.1",
+    "hubot-forecast": "jeffbyrnes/hubot-forecast#manual-query"
   },
   "engines": {
     "node": "0.10.x"
