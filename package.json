@@ -1,8 +1,14 @@
 {
-  "name": "blah",
-  "version": "0.0.0",
+  "name": "officebot",
+  "version": "0.0.1",
   "private": true,
   "author": "Dmitry Kachaev <dmitry.kachaev@gmail.com>",
+  "contributors": [
+    {
+      "name": "Matt Martz",
+      "email": "matt.martz@gmail.com"
+    }
+  ],
   "description": "beep-beep!",
   "dependencies": {
     "hubot": "^2.12.0",
@@ -14,7 +20,7 @@
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "^2.5.16",
     "hubot-slack": "^3.3.0",
-    "hubot-visitor": "^0.5.1",
+    "hubot-visitor": "^0.5.2",
     "hubot-forecast": "jeffbyrnes/hubot-forecast#manual-query"
   },
   "engines": {
