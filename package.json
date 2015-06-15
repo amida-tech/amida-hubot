@@ -20,7 +20,7 @@
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "^2.5.16",
     "hubot-slack": "^3.3.0",
-    "hubot-visitor": "^0.5.2",
+    "hubot-visitor": "^0.5.4",
     "hubot-forecast": "jeffbyrnes/hubot-forecast#manual-query"
   },
   "engines": {
