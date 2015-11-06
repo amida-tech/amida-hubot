@@ -1,24 +1,27 @@
 {
-  "name": "blah",
-  "version": "0.0.0",
+  "name": "officebot",
+  "version": "0.1.0",
   "private": true,
   "author": "Dmitry Kachaev <dmitry.kachaev@gmail.com>",
+  "contributors": [
+    {
+      "name": "Matt Martz",
+      "email": "matt.martz@gmail.com"
+    }
+  ],
   "description": "beep-beep!",
   "dependencies": {
     "hubot": "^2.12.0",
     "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "^0.1.4",
-    "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
-    "hubot-maps": "0.0.2",
-    "hubot-pugme": "^0.1.0",
+    "hubot-phab": "^1.0.5",
+    "hubot-plusplus": "^1.1.5",
     "hubot-redis-brain": "0.0.2",
-    "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
-    "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
-    "hubot-youtube": "^0.1.2"
+    "hubot-visitor": "^0.5.8",
+    "hubot-forecast": "^0.3.1"
   },
   "engines": {
     "node": "0.10.x"
